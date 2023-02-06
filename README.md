@@ -1,2 +1,2 @@
-# cloudflare-bypass
+# cloudflare bypass
 https://www.capsolver.com/
