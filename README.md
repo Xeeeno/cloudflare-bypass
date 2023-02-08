@@ -1,3 +1,3 @@
 # cloudflare bypass
-https://www.capsolver.com/
+cloudflare challenge / turnstile https://www.capsolver.com/
 
