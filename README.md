@@ -1,4 +1,3 @@
 # cloudflare bypass
-cloudflare challenge / turnstile 
-  https://www.capsolver.com/
+cloudflare 5s iuam / cloudflare turnstile solver  https://www.capsolver.com/
 
